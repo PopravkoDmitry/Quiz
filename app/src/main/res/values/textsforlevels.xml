@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lvl1test0">Бес</string>
+    <string name="lvl1test1">Демон</string>
+    <string name="lvl1test2">Цербер</string>
+    <string name="lvl1test3">Суккуб</string>
+    <string name="lvl1test4">Кошмар</string>
+    <string name="lvl1test5">Пещерный Владыка</string>
+    <string name="lvl1test6">Дьявол</string>
+
+
+
+</resources>

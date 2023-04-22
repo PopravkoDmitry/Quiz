@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuiZ</string>
+    <string name="start">Старт</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень 1</string>
+    <string name="txtcontinue">Продолжить</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="you_name">Введите имя</string>
+    <string name="todo">TODO</string>
+    <string name="x"><![CDATA[<]]></string>
+
+</resources>

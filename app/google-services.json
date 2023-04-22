@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202228992766",
+    "firebase_url": "https://poms-cf001.firebaseio.com",
+    "project_id": "poms-cf001",
+    "storage_bucket": "poms-cf001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202228992766:android:4be94f27d0bcc54758b3af",
+        "android_client_info": {
+          "package_name": "com.example.qaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202228992766-eu82a3dfk7jlrapqak9pfpa84fkct99t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi8eF7xORY7l0MuRWpqjArAz_d6E_kDvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202228992766-eu82a3dfk7jlrapqak9pfpa84fkct99t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
